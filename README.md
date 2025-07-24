@@ -15,8 +15,10 @@ https://on.soundcloud.com/aCSVhgSop1Q1nNez6V<img
 Arto Lindsay – I Had A Fever When
 In 2023 Arto Lindsey came to Iceland to play in Mengi for two gigs. I ended up doing sound on one of the gigs. For the trip he also wanted to make an album wich I help'd to record. I ended up also contrubuting electronics. The session also included good friends Skúli Sverrisson and John McCowen. The sessions were mostly recordings of each musician individually playing their instruments, and then he put the recordings together in a linear fashion. The album only had a vinyl physical release in Berlin so for a long time I had no idea how it sounded, it was really hard to imagine what the structure or soundscape would be. And by the time I got a copy I had already forgotten most of the sounds. I was really pleasently surprised with the outcome. The hard cutting beetween the sound scenes turned out to be really tasteful and the pairing of the sounds with spoken word and singing was really beautiful to hear, my fft max patch thing paird with the sound of Arto's voice was is something I could never imagine happening. 
 
+Ofcourse it was an absoloute honor to get to work with Arto, finding DNA as a teenager was a big turning point for me musically and theoretically. The way it breaks down music away from seprate parts (texture, rythm, melody) into the same things, one of the music that I think gets to the essence
 
 Orgel verk
+In 2024 I got asked to do a midi piece for the Hallgrímskirkja organ. I got to do a few experiments in the church and again I got really frustrated with the sound it all for a lack of a better description sounded like an organ. I tried to get some inspiration from Ligeti's organ pieces but figured out a lot of the beautiful textures he achives stem from the fact that he had control of the 
 
 
 Superpang
