@@ -13,7 +13,7 @@ https://on.soundcloud.com/aCSVhgSop1Q1nNez6V<img
 
 
 Arto Lindsay – I Had A Fever When
-In 2023 Arto Lindsey came to Iceland to play in Mengi for two gigs. I ended up doing sound on one of the gigs. For the trip he also wanted to record an album wich I help'd to record. 
+In 2023 Arto Lindsey came to Iceland to play in Mengi for two gigs. I ended up doing sound on one of the gigs. For the trip he also wanted to make an album wich I help'd to record. I ended up also contrubuting electronics, we did a few experiments together the two of us as well as Skúli Sverrisson and John McCowen and the process was qiote inspireing. We recorded 
 
 
 Orgel verk
