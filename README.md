@@ -7,7 +7,7 @@ duration: ca. 6-12'
 <br>
 year: 2022
 <br>
-<a href="https://on.soundcloud.com/aCSVhgSop1Q1nNez6V<img " style="color: black; text-decoration: underline;text-decoration-style: dotted;">recording</a>
+<a href="https://on.soundcloud.com/aCSVhgSop1Q1nNez6V<img" style="color: black; text-decoration: underline;text-decoration-style: dotted;">recording</a>
 <br>  
 <details>
 <summary>about this piece</summary>
