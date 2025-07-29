@@ -46,10 +46,16 @@ In 2025 I got asked to do a midi piece for the Hallgrímskirkja organ. I got to 
 <br>
 <iframe width="50%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2045528625&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rlygur-steinar-arnalds" title="Ölli" target="_blank" style="color: #cccccc; text-decoration: none;">Ölli</a> · <a href="https://soundcloud.com/rlygur-steinar-arnalds/r-lego-midi-piece-for-hallgrimskirkja-pipe-organ" title="r lego (midi for hallgrímskirkja pipe organ)" target="_blank" style="color: #cccccc; text-decoration: none;">r lego (midi for hallgrímskirkja pipe organ)</a></div>
 
-Upcoming album for slef-repair
-For the last few years, whenever I’ve had the time and energy, I’ve been creating patches in Max. These often begin with musical ideas I encounter through friends or stumble upon by chance. They’ve ranged from an obsession with FFT and the idea of freezing sound, to generating FM matrices for harmonic material, and the beautiful textures of DJ scratching. 
-The music that emerges from this work is almost an afterthought—secondary to the process of exploring these curiosities. When it comes time to compose a piece from these patches, I quickly lose interest. In that sense, these tracks are barely composed in the traditional way. Their structure arises entirely from their process of production. Their development in time a byproduct of how these sounds came into being.
 
+
+<br>
+<br>
+
+Upcoming album for slef-repair
+<br>
+For the last few years, whenever I’ve had the time and energy, I’ve been creating patches in Max. These often begin with musical ideas I encounter through friends or stumble upon by chance. They’ve ranged from an obsession with FFT and the idea of freezing sound, to generating FM matrices for harmonic material, and the beautiful textures of DJ scratching. 
+<br>
+The music that emerges from this work is almost an afterthought—secondary to the process of exploring these curiosities. When it comes time to compose a piece from these patches, I quickly lose interest. In that sense, these tracks are barely composed in the traditional way. Their structure arises entirely from their process of production. Their development in time a byproduct of how these sounds came into being.
 <br>
 <br>
 Superpang
