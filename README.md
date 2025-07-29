@@ -63,17 +63,21 @@ The music that emerges from this work is almost an afterthought—secondary to t
 <br>
 <br>
 
-<a href="https://glupsk.bandcamp.com/album/beyond-happy" style="color: black; text-decoration: underline;text-decoration-style: dotted;">glupsk - beyond happy</a> 
+<a href="https://glupsk.bandcamp.com/album/beyond-happy" style="color: black; text-decoration: underline;text-decoration-style: dotted;">glupsk x Sigtryggur Berg - Beyond Happy</a> 
 <br>
 production and electronic 
 <br>
-label: superpang
+label: Superpang
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1428696015/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://glupsk.bandcamp.com/album/beyond-happy">Beyond Happy by glupsk x Sigtryggur Berg Sigmarsson</a></iframe>
+
 
 <a href="https://svbkvlt.bandcamp.com/album/sourcepond" style="color: black; text-decoration: underline;text-decoration-style: dotted;">sideproject - sourcepond</a> 
 <br>
 production and electronic 
 <br>
 label: SVBKVLT
+<br>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1445592068/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://svbkvlt.bandcamp.com/album/sourcepond">sourcepond by sideproject</a></iframe>
 
 2022
 Sigtryggur Berg Sigmarsson – Various Artists
