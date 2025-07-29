@@ -2,7 +2,7 @@
 
 <a href="https://svbkvlt.bandcamp.com/album/sourcepond" style="color: black; text-decoration: underline;text-decoration-style: dotted;">sideproject - sourcepond</a> 
 <br>
-production and electronic 
+production and electronics
 <br>
 label: SVBKVLT
 <br>
@@ -13,12 +13,14 @@ label: SVBKVLT
 
 <a href="https://glupsk.bandcamp.com/album/beyond-happy" style="color: black; text-decoration: underline;text-decoration-style: dotted;">glupsk x Sigtryggur Berg - Beyond Happy</a> 
 <br>
-production and electronic 
+production and electronics
 <br>
 label: Superpang
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1428696015/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://glupsk.bandcamp.com/album/beyond-happy">Beyond Happy by glupsk x Sigtryggur Berg Sigmarsson</a></iframe>
 
 
+
+<br>
 <br>
 <br>
 <a href="https://www.discogs.com/release/29494960-Arto-Lindsay-I-Had-A-Fever-When" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Arto Lindsay – I Had A Fever When</a> 
