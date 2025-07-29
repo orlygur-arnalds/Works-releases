@@ -7,7 +7,6 @@ duration: ca. 6-12'
 <br>
 year: 2022
 <br>
-<br>  
 <details>
 <summary>info</summary>
 <br>
