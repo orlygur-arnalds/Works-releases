@@ -1,5 +1,25 @@
 <body style="background-color:DarkKhaki;">
 
+<a href="https://svbkvlt.bandcamp.com/album/sourcepond" style="color: black; text-decoration: underline;text-decoration-style: dotted;">sideproject - sourcepond</a> 
+<br>
+production and electronic 
+<br>
+label: SVBKVLT
+<br>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1445592068/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://svbkvlt.bandcamp.com/album/sourcepond">sourcepond by sideproject</a></iframe>
+
+<br>
+<br>
+
+<a href="https://glupsk.bandcamp.com/album/beyond-happy" style="color: black; text-decoration: underline;text-decoration-style: dotted;">glupsk x Sigtryggur Berg - Beyond Happy</a> 
+<br>
+production and electronic 
+<br>
+label: Superpang
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1428696015/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://glupsk.bandcamp.com/album/beyond-happy">Beyond Happy by glupsk x Sigtryggur Berg Sigmarsson</a></iframe>
+
+<br>
+<br>
 <a href="https://on.soundcloud.com/aCSVhgSop1Q1nNez6V" style="color: black; text-decoration: underline;text-decoration-style: dotted;">stykki1</a> 
 <br>
 for cello, guitar and piano
@@ -63,22 +83,10 @@ The music that emerges from this work is almost an afterthought—secondary to t
 <br>
 <br>
 
-<a href="https://glupsk.bandcamp.com/album/beyond-happy" style="color: black; text-decoration: underline;text-decoration-style: dotted;">glupsk x Sigtryggur Berg - Beyond Happy</a> 
-<br>
-production and electronic 
-<br>
-label: Superpang
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1428696015/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://glupsk.bandcamp.com/album/beyond-happy">Beyond Happy by glupsk x Sigtryggur Berg Sigmarsson</a></iframe>
 
 
 <br>
-<a href="https://svbkvlt.bandcamp.com/album/sourcepond" style="color: black; text-decoration: underline;text-decoration-style: dotted;">sideproject - sourcepond</a> 
-<br>
-production and electronic 
-<br>
-label: SVBKVLT
-<br>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1445592068/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://svbkvlt.bandcamp.com/album/sourcepond">sourcepond by sideproject</a></iframe>
+
 
 2022
 Sigtryggur Berg Sigmarsson – Various Artists
