@@ -15,7 +15,7 @@ In 2022 I made a piece for the danish ensamble K!ART performed in Mengi. The pie
 </details>
 <br>
 <iframe width="50%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1323094045%3Fsecret_token%3Ds-ORJvjpURIE7&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rlygur-steinar-arnalds" title="Ölli" target="_blank" style="color: #cccccc; text-decoration: none;">Ölli</a> · <a href="https://soundcloud.com/rlygur-steinar-arnalds/try3/s-ORJvjpURIE7" title="Try3" target="_blank" style="color: #cccccc; text-decoration: none;">Try3</a></div>
-
+<br>
 <a href="https://www.discogs.com/release/29494960-Arto-Lindsay-I-Had-A-Fever-When" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Arto Lindsay – I Had A Fever When</a> 
 <br>
 production and electronic 
