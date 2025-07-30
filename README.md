@@ -25,7 +25,9 @@ label: Superpang
 <br>
 <a href="https://www.discogs.com/release/29494960-Arto-Lindsay-I-Had-A-Fever-When" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Arto Lindsay – I Had A Fever When</a> 
 <br>
-production and electronic 
+recording and electronic 
+<br>
+label: Edition DUR
 <br>
 <details>
 <summary>info</summary>
