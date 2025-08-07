@@ -2,7 +2,7 @@
 
 <h1>Still updateing this page</h1>
 <br>
-<h2>A few eeleases and pieces in non chronological order</h2>
+<h2>A few recent eeleases and pieces in non chronological order</h2>
 <br>
 <a href="https://svbkvlt.bandcamp.com/album/sourcepond" style="color: black; text-decoration: underline;text-decoration-style: dotted;">sideproject - sourcepond</a> 
 <br>
